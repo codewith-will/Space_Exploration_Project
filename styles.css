@@ -7,7 +7,7 @@ body {
 }
 
 #hero {
-    background-image: url("images/galaxy.webp");
+    background-image: url("galaxy.webp");
     background-size: cover;
     padding: 40px 0 80px 0;
     max-width: 100%;
